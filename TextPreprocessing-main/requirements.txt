@@ -1,0 +1,5 @@
+PyYAML
+pandas
+numpy
+num2words
+google-transliteration-api
